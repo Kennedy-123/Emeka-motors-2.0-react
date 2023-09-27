@@ -1,0 +1,98 @@
+nav{
+  background: linear-gradient(green, aqua);
+}
+
+nav ul{
+  margin: -50px 0px 0px 55rem;
+}
+
+.active {
+  color: yellow;
+}
+
+.Navlinks:hover {
+  color: yellow;
+}
+
+.img {
+  position: relative;
+  z-index: 2;
+}
+
+.overlay {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-color: rgba(132, 132, 132, 0.5);
+  z-index: 0;
+}
+.intro-text {
+  position: absolute;
+  z-index: 1;
+  text-align: center;
+  margin: 90px 0px 0px 280px;
+}
+
+/* footer */
+
+footer{
+  background: linear-gradient(green, aqua);
+}
+
+.footer-link a{
+  transition: 0.4s;
+}
+
+.footer-link a:hover{
+  color: yellow;
+}
+
+.instagram-icon:hover{
+  color: white;
+  background: linear-gradient(purple,gold,rgb(203, 28, 72));
+}
+
+.email-icon:hover{
+  background-color: white;
+  color: red;
+}
+
+.whatsapp-icon:hover{
+  background-color: rgb(6, 188, 6);
+  color: white;
+}
+
+.footer-icons a{
+  border: 1px solid #ccc;
+  border-radius: 50%;
+  width: 40px;
+  height: 40px;
+  display: inline-block;
+}
+
+.footer-icons{
+  text-align: center;
+  padding-bottom: 25px;
+}
+
+footer p{
+  text-align: center;
+}
+
+.icon{
+  position: relative;
+  top: 8px;
+  left: 7px;
+}
+
+hr{
+  width: 100%;
+  position: relative;
+  bottom: 15px;
+}
+
+.mylogo{
+  display: inline;
+}

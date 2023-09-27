@@ -1,0 +1,14 @@
+.ceo-card, .about-para{
+    width: 500px;
+    margin: 50px;
+    border-radius: 30px;
+}
+
+.about-para{
+    padding: 10px;
+}
+
+.ceo-info{
+    margin-top: 25px;
+    margin-left: -130px;
+}

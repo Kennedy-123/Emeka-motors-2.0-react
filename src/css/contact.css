@@ -1,0 +1,42 @@
+.contact-input {
+  border: 5px solid aqua;
+}
+
+.form {
+  width: 650px;
+  padding: 20px;
+  text-align: center;
+  border-radius: 10px;
+}
+
+.email-input {
+  width: 550px;
+}
+
+.info-text {
+  border: 5px solid aqua;
+  width: 550px;
+  height: 250px;
+  resize: none;
+}
+
+.submit-btn{
+    background-color: steelblue;
+    padding: 5px;
+    font-weight: 700;
+}
+
+.submit-btn:hover{
+    color: aqua;
+}
+
+.contact-info{
+    height: 250px;
+    padding: 10px 15px;
+    margin-top: 50px;
+    border-radius: 10px;
+}
+
+.contact-info a:hover{
+  color: aqua;
+}
